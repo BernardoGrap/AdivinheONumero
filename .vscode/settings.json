@@ -1,0 +1,4 @@
+{
+    "dotnet.defaultSolution": "AdivinheONumero.sln",
+    "csharp.debug.console": "externalTerminal"
+}

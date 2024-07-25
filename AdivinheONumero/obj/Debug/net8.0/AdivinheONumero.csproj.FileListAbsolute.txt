@@ -1,0 +1,14 @@
+c:\Users\berna\Desktop\Programação\C#\AdivinheONumero\AdivinheONumero\bin\Debug\net8.0\AdivinheONumero.exe
+c:\Users\berna\Desktop\Programação\C#\AdivinheONumero\AdivinheONumero\bin\Debug\net8.0\AdivinheONumero.deps.json
+c:\Users\berna\Desktop\Programação\C#\AdivinheONumero\AdivinheONumero\bin\Debug\net8.0\AdivinheONumero.runtimeconfig.json
+c:\Users\berna\Desktop\Programação\C#\AdivinheONumero\AdivinheONumero\bin\Debug\net8.0\AdivinheONumero.dll
+c:\Users\berna\Desktop\Programação\C#\AdivinheONumero\AdivinheONumero\bin\Debug\net8.0\AdivinheONumero.pdb
+c:\Users\berna\Desktop\Programação\C#\AdivinheONumero\AdivinheONumero\obj\Debug\net8.0\AdivinheONumero.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\berna\Desktop\Programação\C#\AdivinheONumero\AdivinheONumero\obj\Debug\net8.0\AdivinheONumero.AssemblyInfoInputs.cache
+c:\Users\berna\Desktop\Programação\C#\AdivinheONumero\AdivinheONumero\obj\Debug\net8.0\AdivinheONumero.AssemblyInfo.cs
+c:\Users\berna\Desktop\Programação\C#\AdivinheONumero\AdivinheONumero\obj\Debug\net8.0\AdivinheONumero.csproj.CoreCompileInputs.cache
+c:\Users\berna\Desktop\Programação\C#\AdivinheONumero\AdivinheONumero\obj\Debug\net8.0\AdivinheONumero.dll
+c:\Users\berna\Desktop\Programação\C#\AdivinheONumero\AdivinheONumero\obj\Debug\net8.0\refint\AdivinheONumero.dll
+c:\Users\berna\Desktop\Programação\C#\AdivinheONumero\AdivinheONumero\obj\Debug\net8.0\AdivinheONumero.pdb
+c:\Users\berna\Desktop\Programação\C#\AdivinheONumero\AdivinheONumero\obj\Debug\net8.0\AdivinheONumero.genruntimeconfig.cache
+c:\Users\berna\Desktop\Programação\C#\AdivinheONumero\AdivinheONumero\obj\Debug\net8.0\ref\AdivinheONumero.dll
